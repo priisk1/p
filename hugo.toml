@@ -1,0 +1,22 @@
+baseURL = 'http://example.org/'
+languageCode = 'ru'
+title = 'Мой цифровой сад'
+theme = 'PaperMod'
+
+[params]
+  homeInfoParams = { Title = 'Добро пожаловать в мой сад', Content = 'Здесь растут мои заметки и идеи' }
+
+[[menu.main]]
+  identifier = 'search'
+  name = 'Поиск'
+  url = '/search/'
+  weight = 10
+
+[[menu.main]]
+  identifier = 'tags'
+  name = 'Теги'
+  url = '/tags/'
+  weight = 20
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
