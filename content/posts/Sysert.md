@@ -3,6 +3,7 @@ title: Сысерть
 tags:
 categories:
 date: 2026-05-24
+slug: sysert
 lastMod: 2026-05-24
 --- 
 Поиск дома
