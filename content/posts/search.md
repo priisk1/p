@@ -3,6 +3,6 @@ title: "Поиск"
 layout: "search"
 summary: "search"
 draft: false
-_build:
+build:
   list: never
 ---
