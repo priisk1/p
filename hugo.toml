@@ -13,7 +13,7 @@ theme = 'PaperMod'
   identifier = 'search'
   name = 'Поиск'
   url = '/search/'
-  weight = 10
+  weight = 30
 
 [[menu.main]]
   identifier = 'tags'
